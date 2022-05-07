@@ -1,0 +1,27 @@
+.navbar-container{
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    display: flex;
+    align-items: center;
+    font-family: 'Karla', sans-serif;
+    color: whitesmoke;
+    padding: 20px;
+    height: 65px;
+}
+
+.main-header{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.25rem; /* formula = desired px/16px = value in rem*/
+    margin-right: auto;
+}
+
+.sub-header{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 0.75rem; /* formula = desired px/16px = value in rem*/
+}
+
+.navbar-logo{
+    margin-right: 8px;
+    height: 100%;
+}
